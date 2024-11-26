@@ -1,0 +1,5 @@
+What is the full form of DSA?,Data Structure and algorithm,Data Science Algorithm,Data Sort Algorithm ,Domain Search Algorithm,Data structure and algorithm
+What is the average time complexity of searching for an element in a balanced binary search tree (BST)?,O(1),O(log n),O(n),O(n log n),O(n log n)
+Which data structure uses LIFO (Last In First Out) principle?,Queue,Stack,Array,Linkedlist,Stack
+What is the time complexity of accessing an element in an array?,O(n),O(1),O(log n),O(n log n),O(1)
+Which algorithm is used to find the shortest path in a graph?,Depth-First Search,Breadth-First Search,Dijkstra's Algorithm,Kruskal's Algorithm,Dijkstra's Algorithm

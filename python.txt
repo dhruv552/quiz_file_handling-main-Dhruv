@@ -1,0 +1,5 @@
+Which of the following is a mutable data type in Python?,Tuple,List,String,integer,List
+Which keyword is used to create a function in Python?,func,define,function,def,def
+Which of the following functions can be used to get the length of a string in Python?,length(),strlen(),len(),size(),len()
+Which of the following is the correct way to declare a variable and assign the value 5 to it?,int x = 5,x = 5,declare x=5 ,x:=5,x=5
+What is the data type of print(type(3.14)) in Python?,int,float,double,string,float

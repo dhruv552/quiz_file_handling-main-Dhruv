@@ -1,0 +1,5 @@
+Which of the following is a primary key?,A unique identifier for each record in a table,A key that can accept null values,A key that is used to create relationships between tables,A key that allows duplicate values,A unique identifier for each record in a table
+What does ACID stand for in the context of database transactions?,Atomicity Consistency Isolation Durability,Accuracy Consistency  Integrity  Durability ,Atomicity Coherence Isolation Data,Availability Consistency  Isolation  Durability,Atomicity Consistency Isolation Durability
+Which of the following SQL statements is used to create a table?,INSERT INTO,UPDATE,CREATE TABLE,ALTER TABLE,CREATE TABLE
+Which type of join returns all rows when there is a match in either of the tables?,INNER JOIN,LEFT JOIN,RIGHT JOIN ,FULL JOIN,FULL JOIN
+What is the purpose of normalization in a database?,To reduce redundancy and improve data integrity,To increase data redundancy,To ensure data is stored in a single table,To reduce the complexity of queries,To reduce redundancy and improve data integrity
